@@ -1,0 +1,12 @@
+.page-header,
+footer.footer.container,
+#navbar,.breadcrumb
+{
+	display:none;	
+}
+div#overlay>div#overlay-content.clearfix>div.main-container.container{
+    width:60%
+}
+#overlay-tabs>li:first-child{
+    display:none;
+}

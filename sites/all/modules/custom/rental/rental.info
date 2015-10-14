@@ -1,0 +1,7 @@
+name = rental
+description = Support module for Rental managements system
+package = amacue
+
+files[] = rental.module
+core = 7.x
+

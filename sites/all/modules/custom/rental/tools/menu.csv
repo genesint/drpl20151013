@@ -1,0 +1,52 @@
+title|title callback|title arguments|description|page callback|page arguments|access callback|access arguments|file|file path|weight|menu_name|type|url
+Dashboard||||router||||router.inc||||MENU_NORMAL_ITEM|dashboard
+Accounts||||router||||router.inc||||MENU_NORMAL_ITEM|accounts
+Income||||router||||router.inc||||MENU_NORMAL_ITEM|income
+Expenses||||router||||router.inc||||MENU_NORMAL_ITEM|expenses
+Billing||||router||||router.inc||||MENU_NORMAL_ITEM|billing
+Units||||router||||router.inc||||MENU_NORMAL_ITEM|units
+Tenants||||router||||router.inc||||MENU_NORMAL_ITEM|tenants
+Reports||||router||||router.inc||||MENU_NORMAL_ITEM|reports
+Tenants grid||||tenants_grid||||grids/tenants-grid.inc||||MENU_NORMAL_ITEM|tenants-grid
+Income grid||||income_grid||||grids/income-grid.inc||||MENU_NORMAL_ITEM|income-grid
+Expenses grid||||expenses_grid||||grids/expenses-grid.inc||||MENU_NORMAL_ITEM|expenses-grid
+Billing grid||||billing_grid||||grids/billing-grid.inc||||MENU_NORMAL_ITEM|billing-grid
+Units grid||||units_grid||||grids/units-grid.inc||||MENU_NORMAL_ITEM|units-grid
+Accounts grid||||accounts_grid||||grids/accounts-grid.inc||||MENU_NORMAL_ITEM|accounts-grid
+Transactions||||router||||router.inc||||MENU_NORMAL_ITEM|transactions
+Transactions Grid||||transactions_grid||||grids/transactions-grid.inc||||MENU_NORMAL_ITEM|transactions-grid
+My transactions||||router||||router.inc||||MENU_NORMAL_ITEM|mytransactions
+My transactions Grid||||mytransactions_grid||||grids/mytransactions-grid.inc||||MENU_NORMAL_ITEM|mytransactions-grid
+My billing||||router||||router.inc||||MENU_NORMAL_ITEM|mybilling
+My billing Grid||||mybilling_grid||||grids/mybilling-grid.inc||||MENU_NORMAL_ITEM|mybilling-grid
+Receipt||||router||||router.inc||||MENU_NORMAL_ITEM|receipt
+Invoice||||router||||router.inc||||MENU_NORMAL_ITEM|invoice
+Voucher||||router||||router.inc||||MENU_NORMAL_ITEM|voucher
+Unit history||||router||||router.inc||||MENU_NORMAL_ITEM|unit-history
+Unit history grid||||unit_history_grid||||grids/unit-history-grid.inc||||MENU_NORMAL_ITEM|unit-history-grid
+Backups||||router||||router.inc||||MENU_NORMAL_ITEM|backups
+Backups grid||||backups_grid||||grids/backups-grid.inc||||MENU_NORMAL_ITEM|backups-grid
+Perform a backup||||backup_perform||||backup.inc||||MENU_NORMAL_ITEM|backup-perform
+Restore a backup||||restore_backup||||backup.inc||||MENU_NORMAL_ITEM|restore-backup
+Delete tenant||||delete_tenant||||operations.inc||||MENU_NORMAL_ITEM|delete-tenant
+My Payments||||router||||router.inc||||MENU_NORMAL_ITEM|mypayments
+My Payments grid||||mypayments_grid||||grids/mypayments-grid.inc||||MENU_NORMAL_ITEM|mypayments-grid
+Export||||download_excel||||excel.inc||||MENU_NORMAL_ITEM|export
+Export rent||||download_excel||||export-rent.inc||||MENU_NORMAL_ITEM|export-rent
+Export income||||download_excel||||export-income.inc||||MENU_NORMAL_ITEM|export-income
+Unit expenses ||||router||||router.inc||||MENU_NORMAL_ITEM|unit-expenses
+Unit expenses grid||||unit_expenses_grid||||grids/unit-expenses-grid.inc||||MENU_NORMAL_ITEM|unit-expenses-grid
+Unit profit and loss||||router||||router.inc||||MENU_NORMAL_ITEM|unit-profit-loss
+Unit profit and loss grid||||unit_profit_loss_grid||||grids/unit-profit-loss-grid.inc||||MENU_NORMAL_ITEM|unit-profit-loss-grid
+Unit name profit and loss||||router||||router.inc||||MENU_NORMAL_ITEM|unit-name-profit-loss
+Unit name profit and loss grid||||unit_name_profit_loss_grid||||grids/unit-name-profit-loss-grid.inc||||MENU_NORMAL_ITEM|unit-name-profit-loss-grid
+Unit types||||router||||router.inc||||MENU_NORMAL_ITEM|unit-types
+Unit types grid||||unit_types_grid||||grids/unit-types-grid.inc||||MENU_NORMAL_ITEM|unit-types-grid
+Delete unit||||delete_unit||||operations.inc||||MENU_NORMAL_ITEM|delete-unit
+Delete unit type||||delete_unit_type||||operations.inc||||MENU_NORMAL_ITEM|delete-unit-type
+Notifications||||router||||router.inc||||MENU_NORMAL_ITEM|notifications
+Notifications grid||||notifications_grid||||grids/notifications-grid.inc||||MENU_NORMAL_ITEM|notifications-grid
+Unit groups||||router||||router.inc||||MENU_NORMAL_ITEM|unit-groups
+Unit groups grid||||unit_groups_grid||||grids/unit-groups-grid.inc||||MENU_NORMAL_ITEM|unit-groups-grid
+Debtors||||router||||router.inc||||MENU_NORMAL_ITEM|debtors
+Debtors grid||||debtors_grid||||grids/debtors-grid.inc||||MENU_NORMAL_ITEM|debtors-grid
