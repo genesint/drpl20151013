@@ -50,3 +50,4 @@ Unit groups||||router||||router.inc||||MENU_NORMAL_ITEM|unit-groups
 Unit groups grid||||unit_groups_grid||||grids/unit-groups-grid.inc||||MENU_NORMAL_ITEM|unit-groups-grid
 Debtors||||router||||router.inc||||MENU_NORMAL_ITEM|debtors
 Debtors grid||||debtors_grid||||grids/debtors-grid.inc||||MENU_NORMAL_ITEM|debtors-grid
+Delete a backup||||backup_delete||||backup_delete.inc||||MENU_NORMAL_ITEM|backup-delete

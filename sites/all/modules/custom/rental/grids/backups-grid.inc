@@ -35,6 +35,8 @@ function backups_grid()
         $date->setTimeZone(new DateTimeZone('Africa/Kampala'));
         $row[] =  $date->format('d/m/Y H:i:s')." Africa/Kampala";
         $row[] =  '<a href="'.$base_url.'/sites/default/files/backups/'.$ofile.'" ><i class="fa fa-download fa-fw"></i></a>';
+
+        $row[] =  '<a href="backup-delete?file='.$ofile.'" ><i class="fa fa-trash fa-fw"></i></a>';
         $output['aaData'][] = $row;
         $rowCount++;
     }

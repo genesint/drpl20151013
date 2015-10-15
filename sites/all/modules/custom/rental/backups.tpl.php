@@ -37,7 +37,8 @@ $source = $node->field_source['und'][0]['value'];
                 {"bSearchable": false, "bSortable": false, "aTargets": [3]},
                 {"bSearchable": false, "bSortable": false, "aTargets": [4]},
                 {"bSearchable": false, "bSortable": false, "aTargets": [5]},
-                {"bSearchable": false, "bSortable": false, "aTargets": [6]}
+                {"bSearchable": false, "bSortable": false, "aTargets": [6]},
+                {"bSearchable": false, "bSortable": false, "aTargets": [7]}
             ],
             "sAjaxSource": "backups-grid"
         });
@@ -81,6 +82,7 @@ $source = $node->field_source['und'][0]['value'];
             <th>Source</th>
             <th>Upload date</th>
             <th>Download</th>
+            <th>Delete</th>
         </tr>
         </thead>
         <tbody>
@@ -88,6 +90,7 @@ $source = $node->field_source['und'][0]['value'];
         </tbody>
         <tfoot>
         <tr>
+            <th></th>
             <th></th>
             <th></th>
             <th></th>
